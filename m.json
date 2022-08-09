@@ -363,7 +363,7 @@
 {
 "name": "redirect",
 "urls": [
-"proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvUkNOSlRFQ0gvaG9zdGluZ0BtYWluL2xpdmUudHh0"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1JDTkpURUNIL2hvc3RpbmdAbWFpbi9saXZlLnR4dA=="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vc3ViL3Jhdy9icmFuY2gvbWFpbi9saXZlL3RzLnR4dA=="
 ]}]}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
